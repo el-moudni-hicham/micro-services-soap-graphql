@@ -45,3 +45,7 @@
 
 ![image](https://user-images.githubusercontent.com/85403056/229946573-168b5579-24ef-4611-9602-396a08b74fcd.png)
 
+* <h4>Test de methode Delete Account :</h4>
+
+![image](https://user-images.githubusercontent.com/85403056/229947557-aa552cb4-7b79-482b-bdfa-872b7fa83175.png)
+
