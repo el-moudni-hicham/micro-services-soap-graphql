@@ -74,4 +74,17 @@ Projections
 
 ![image](https://user-images.githubusercontent.com/85403056/229954225-bb7aa2b2-0601-4f6e-80ae-be864ef6d1f9.png)
 
+GraphQL 
+
+![image](https://user-images.githubusercontent.com/85403056/230106326-1b7d4b91-5945-45ea-b099-e658d50a113b.png)
+
+![image](https://user-images.githubusercontent.com/85403056/230110241-b8092ecb-1c1e-4ab9-b5f4-2ef39b6468bf.png)
+
+![image](https://user-images.githubusercontent.com/85403056/230127358-71330ae6-5f99-4902-8140-88421c6847e1.png)
+
+![image](https://user-images.githubusercontent.com/85403056/230128753-b1c146a7-0255-442f-ada1-0f7ab23da798.png)
+
+![image](https://user-images.githubusercontent.com/85403056/230133700-e5fbd74b-d847-46b7-aa64-144b207f6510.png)
+
+![image](https://user-images.githubusercontent.com/85403056/230174258-dced7211-46ed-445d-b4bf-87ff71d4e885.png)
 
