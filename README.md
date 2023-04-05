@@ -64,7 +64,7 @@
 
 
 
-8-
+8- @RepositoryRestResource
 
 ![image](https://user-images.githubusercontent.com/85403056/229953193-af3fdd2e-fd4d-445e-96a7-07a21d6fd6a4.png)
 
