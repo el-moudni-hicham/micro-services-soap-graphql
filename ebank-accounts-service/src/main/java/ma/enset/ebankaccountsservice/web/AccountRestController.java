@@ -30,12 +30,14 @@ public class AccountRestController {
                 .orElseThrow(() -> new RuntimeException(String.format("Account %s not found !", id)));
     }
 
+    /*
     // Save Account
     @PostMapping("/bankAccounts")
     public BankAccount save(@RequestBody BankAccount bankAccount){
         if(bankAccount.getId() == null) bankAccount.setId(UUID.randomUUID().toString());
         return bankAccountRepository.save(bankAccount);
     }
+    */
 
     @PutMapping ("/bankAccounts/{id}")
     public BankAccount update(@PathVariable String id, @RequestBody BankAccount bankAccount){

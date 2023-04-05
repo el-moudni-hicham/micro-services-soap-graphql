@@ -39,4 +39,9 @@ public class AccountServiceImpl implements AccountService {
                 .build();
         return bankAccountResponseDTO;
     }
+
+    @Override
+    public BankAccountResponseDTO updateAccount(String id, BankAccountRequestDTO bankAccountDTO) {
+        return null;
+    }
 }
