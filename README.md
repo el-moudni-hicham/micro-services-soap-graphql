@@ -74,4 +74,13 @@ Projections
 
 ![image](https://user-images.githubusercontent.com/85403056/229954225-bb7aa2b2-0601-4f6e-80ae-be864ef6d1f9.png)
 
+GraphQL 
+
+![image](https://user-images.githubusercontent.com/85403056/230106326-1b7d4b91-5945-45ea-b099-e658d50a113b.png)
+
+![image](https://user-images.githubusercontent.com/85403056/230110241-b8092ecb-1c1e-4ab9-b5f4-2ef39b6468bf.png)
+
+![image](https://user-images.githubusercontent.com/85403056/230127358-71330ae6-5f99-4902-8140-88421c6847e1.png)
+
+
 
