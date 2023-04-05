@@ -26,7 +26,8 @@
 ![image](https://user-images.githubusercontent.com/85403056/229936703-edeb1339-b028-40d3-9b04-810949cd04f1.png)
 
 
-6-
+6- Postman
+
 * <h4>Test de methode Get All Accounts :</h4>
 
 ![image](https://user-images.githubusercontent.com/85403056/229941784-db66a91b-67fd-4082-97f3-76c550ce137d.png)
@@ -48,4 +49,19 @@
 * <h4>Test de methode Delete Account :</h4>
 
 ![image](https://user-images.githubusercontent.com/85403056/229947557-aa552cb4-7b79-482b-bdfa-872b7fa83175.png)
+
+7- Swagger
+
+![image](https://user-images.githubusercontent.com/85403056/229950046-3f663d0a-38fb-467a-9631-15eda82c24c3.png)
+
+
+![image](https://user-images.githubusercontent.com/85403056/229950008-e3c44ba5-4c64-489f-b19a-e7b51c521d0d.png)
+
+
+![image](https://user-images.githubusercontent.com/85403056/229951020-461d6add-c32a-4a4d-9da1-567fa90b2592.png)
+
+![image](https://user-images.githubusercontent.com/85403056/229951334-7fbf562d-e311-4b8f-8008-cd0f78019ec5.png)
+
+
+
 
