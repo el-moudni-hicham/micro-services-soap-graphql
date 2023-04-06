@@ -10,7 +10,8 @@ import ma.enset.ebankaccountsservice.enums.AccountType;
 import java.util.Date;
 
 @Entity
-@Data @NoArgsConstructor @AllArgsConstructor @Builder //design pattern builder to create objects
+@Data @NoArgsConstructor @AllArgsConstructor
+@Builder //design pattern builder to create objects
 public class BankAccount {
     @Id
     private String id;
@@ -19,5 +20,7 @@ public class BankAccount {
     private String currency;
     @Enumerated(EnumType.STRING)
     private AccountType type;
+    @ManyToOne
+    private Customer customer;
 
 }
